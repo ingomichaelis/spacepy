@@ -1,0 +1,3 @@
+[submodule "spacepy/irbempy/IRBEM"]
+	path = spacepy/irbempy/IRBEM
+	url = https://github.com/ingomichaelis/IRBEM.git
